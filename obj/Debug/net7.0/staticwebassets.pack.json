@@ -1,0 +1,1037 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\itc_mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\itc_mvc.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-Black.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-Condensed.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-Condensed.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedBlack.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedBlackItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedBlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedExtraBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedExtraLight.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedLight.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedLightItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedMedium.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedMedium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedMediumItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedMediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedSemiBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedSemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedSemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedSemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedThin.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedThin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-CondensedThinItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-CondensedThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensed.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensed.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedBlack.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedBlackItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedBlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedExtraBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedExtraLight.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedLight.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedLightItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedMedium.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedMedium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedMediumItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedMediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedSemiBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedSemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedSemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedSemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedThin.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedThin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraCondensedThinItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraCondensedThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-Light.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-Medium.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensed.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensed.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedBlack.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedBlackItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedBlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedExtraBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedExtraLight.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedLight.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedLightItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedMedium.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedMedium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedMediumItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedMediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedSemiBold.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedSemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedSemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedSemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedThin.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedThin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-SemiCondensedThinItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-SemiCondensedThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-Thin.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\NotoSans-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\backup\\NotoSans-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\backup\\SIL Open Font License.txt",
+      "PackagePath": "staticwebassets\\backup\\SIL Open Font License.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-Black.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-Condensed.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-Condensed.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedBlack.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedBlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedBlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedMedium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedMedium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedMediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedMediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedSemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedSemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedSemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedSemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedThin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedThin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-CondensedThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-CondensedThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensed.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensed.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedBlack.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedBlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedBlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedMedium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedMedium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedMediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedMediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedSemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedSemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedSemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedSemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedThin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedThin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraCondensedThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraCondensedThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-Light.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-Medium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-Regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensed.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensed.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedBlack.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedBlack.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedBlackItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedBlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedExtraBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedExtraLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedLight.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedLightItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedMedium.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedMedium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedMediumItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedMediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedSemiBold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedSemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedSemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedSemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedThin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedThin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-SemiCondensedThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-SemiCondensedThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-Thin.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\NotoSans-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\NotoSans-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\fonts\\SIL Open Font License.txt",
+      "PackagePath": "staticwebassets\\fonts\\SIL Open Font License.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\1.png",
+      "PackagePath": "staticwebassets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\aboutusimage1.png",
+      "PackagePath": "staticwebassets\\img\\aboutusimage1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\aboutusimage2.png",
+      "PackagePath": "staticwebassets\\img\\aboutusimage2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\angle.png",
+      "PackagePath": "staticwebassets\\img\\angle.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\cart.png",
+      "PackagePath": "staticwebassets\\img\\cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\cart.svg",
+      "PackagePath": "staticwebassets\\img\\cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\category.png",
+      "PackagePath": "staticwebassets\\img\\category.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\chequedplate.png",
+      "PackagePath": "staticwebassets\\img\\chequedplate.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\chequedplate1.png",
+      "PackagePath": "staticwebassets\\img\\chequedplate1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\chequedplate2.png",
+      "PackagePath": "staticwebassets\\img\\chequedplate2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\chequedplate3.png",
+      "PackagePath": "staticwebassets\\img\\chequedplate3.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\contacus.png",
+      "PackagePath": "staticwebassets\\img\\contacus.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\contacus.png.svg",
+      "PackagePath": "staticwebassets\\img\\contacus.png.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\contacus1.svg",
+      "PackagePath": "staticwebassets\\img\\contacus1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\email.png",
+      "PackagePath": "staticwebassets\\img\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\facebook.png",
+      "PackagePath": "staticwebassets\\img\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\favorite.svg",
+      "PackagePath": "staticwebassets\\img\\favorite.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\flickity-docs.css",
+      "PackagePath": "staticwebassets\\img\\flickity-docs.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\flickity-docs.min.js",
+      "PackagePath": "staticwebassets\\img\\flickity-docs.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\headphone.png",
+      "PackagePath": "staticwebassets\\img\\headphone.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\heart.png",
+      "PackagePath": "staticwebassets\\img\\heart.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\heart1.png",
+      "PackagePath": "staticwebassets\\img\\heart1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\insideheart.png",
+      "PackagePath": "staticwebassets\\img\\insideheart.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\line.png",
+      "PackagePath": "staticwebassets\\img\\line.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\link.png",
+      "PackagePath": "staticwebassets\\img\\link.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\location-gif.png",
+      "PackagePath": "staticwebassets\\img\\location-gif.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\next_left.svg",
+      "PackagePath": "staticwebassets\\img\\next_left.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\next_right.svg",
+      "PackagePath": "staticwebassets\\img\\next_right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\phone.png",
+      "PackagePath": "staticwebassets\\img\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\quality.png",
+      "PackagePath": "staticwebassets\\img\\quality.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\rectangle.png",
+      "PackagePath": "staticwebassets\\img\\rectangle.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\redsquare.png",
+      "PackagePath": "staticwebassets\\img\\redsquare.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\rod.png",
+      "PackagePath": "staticwebassets\\img\\rod.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\search.png",
+      "PackagePath": "staticwebassets\\img\\search.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\sheet.png",
+      "PackagePath": "staticwebassets\\img\\sheet.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\sixdaysaWEEK.png",
+      "PackagePath": "staticwebassets\\img\\sixdaysaWEEK.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\sliderbg.png",
+      "PackagePath": "staticwebassets\\img\\sliderbg.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\square.png",
+      "PackagePath": "staticwebassets\\img\\square.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\straightline.png",
+      "PackagePath": "staticwebassets\\img\\straightline.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\test.png",
+      "PackagePath": "staticwebassets\\img\\test.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\twitter.png",
+      "PackagePath": "staticwebassets\\img\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\vline.png",
+      "PackagePath": "staticwebassets\\img\\vline.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\warehouse.png",
+      "PackagePath": "staticwebassets\\img\\warehouse.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\wave.svg",
+      "PackagePath": "staticwebassets\\img\\wave.svg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\wire.png",
+      "PackagePath": "staticwebassets\\img\\wire.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\img\\yelloishsquare.png",
+      "PackagePath": "staticwebassets\\img\\yelloishsquare.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\itc_mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.itc_mvc.props",
+      "PackagePath": "build\\itc_mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.itc_mvc.props",
+      "PackagePath": "buildMultiTargeting\\itc_mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.itc_mvc.props",
+      "PackagePath": "buildTransitive\\itc_mvc.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.itc_mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

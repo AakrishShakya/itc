@@ -1,0 +1,302 @@
+
+  <div class="container pt-4 mt-4">
+    <nav aria-label="breadcrumb breadcrumb-cuctum">
+      <ol class="breadcrumb " >
+        <li class="breadcrumb-item "><a href="index.html" class="breadcrumb-cuctum">Home</a></li>
+        <li class="breadcrumb-item active"><a href="#" class="breadcrumb-cuctum">Products</a></li>
+        <li class="breadcrumb-item active"><a href="#" class="breadcrumb-cuctum">Aluminium</a></li>
+        <li class="breadcrumb-item active"><a href="#" class="breadcrumb-cuctum1">Aluminium chequed</a></li>
+      </ol>
+    </nav>
+  </div>
+
+
+
+
+
+		<div class="container py-4"> 
+<div class="row ">
+		<div class="col-lg">
+			<img id=featured class="main-img-dis border-0" src="/img/chequedplate.png">
+
+	
+			
+
+				<div class="d-flex border-0">
+					<img class="thumbnail border-0 active" src="/img/chequedplate.png">
+					<img class="thumbnail border-0" src="/img/chequedplate1.png">
+					<img class="thumbnail border-0" src="/img/chequedplate2.png">
+
+	
+				</div>
+			
+		</div>
+
+	
+<div class="col-lg">
+  <div class="d-flex pb-4">
+
+    <p class="finalprodutfont">  Aluminium Chequed Plates <a href=""> 
+  <div class="image-container ">
+
+  <img src="/img/insideheart.png" alt="Hover Image" class="hover-image1 finalzindex">
+  <img src="/img/heart1.png" alt="Original Image" class="finalzindex1">
+ 
+</div></a></p>
+</div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-12">
+      <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th scope="col">Select</th>
+            <th scope="col">Size</th>
+            <th scope="col">Thickness</th>
+            <th scope="col">Status</th>
+          
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+              <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="customCheck1" checked>
+                  <label class="custom-control-label" for="customCheck1">1</label>
+              </div>
+            </td>
+            <td>45e</td>
+            <td>4444</td>
+            <td><img src="/img/square.png" class="finalproductpadding" alt=""> In Stock</td>
+      
+          </tr>
+          <tr>
+            <td>
+              <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="customCheck2">
+                  <label class="custom-control-label" for="customCheck2">2</label>
+              </div>
+            </td>
+            <td>45e</td>
+            <td>4444</td>
+            <td><img src="/img/redsquare.png" class="finalproductpadding" alt=""> In Stock</td>
+      
+          </tr>
+          <tr>
+            <td>
+              <div class="custom-control custom-checkbox">
+                  <input type="checkbox" class="custom-control-input" id="customCheck3">
+                  <label class="custom-control-label" for="customCheck3">3</label>
+              </div>
+            </td>
+            <td>45e</td>
+            <td>4444</td>
+            <td><img src="/img/yelloishsquare.png" class="finalproductpadding" alt=""> In Stock</td>
+      
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+</div>
+	</div></div>
+
+
+
+	<script type="text/javascript">
+
+		let thumbnails = document.getElementsByClassName('thumbnail')
+
+		let activeImages = document.getElementsByClassName('active')
+
+		for (var i=0; i < thumbnails.length; i++){
+
+			thumbnails[i].addEventListener('mouseover', function(){
+				console.log(activeImages)
+				
+				if (activeImages.length > 0){
+					activeImages[0].classList.remove('active')
+				}
+				
+
+				this.classList.add('active')
+				document.getElementById('featured').src = this.src
+			})
+		}
+
+
+		let buttonRight = document.getElementById('slideRight');
+		let buttonLeft = document.getElementById('slideLeft');
+
+		buttonLeft.addEventListener('click', function(){
+			document.getElementById('slider').scrollLeft -= 180
+		})
+
+		buttonRight.addEventListener('click', function(){
+			document.getElementById('slider').scrollLeft += 180
+		})
+
+
+	</script>
+
+</div>
+
+
+
+
+<div class="container my-4 py-4">
+
+  <div class="d-flex align-items-start">
+    <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+      <button class="nav-link tablisttextxolor active " id="v-pills-home-tab" data-bs-toggle="pill" data-bs-target="#v-pills-home" type="button" role="tab" aria-controls="v-pills-home" aria-selected="true">Quotation</button>
+      <button class="nav-link tablisttextxolor" id="v-pills-profile-tab" data-bs-toggle="pill" data-bs-target="#v-pills-profile" type="button" role="tab" aria-controls="v-pills-profile" aria-selected="false">Details</button>
+      <button class="nav-link tablisttextxolor" id="v-pills-messages-tab" data-bs-toggle="pill" data-bs-target="#v-pills-messages" type="button" role="tab" aria-controls="v-pills-messages" aria-selected="false">Others</button>
+    </div>
+
+    <div class="tab-content border-black" id="v-pills-tabContent">
+      <div class="tab-pane fade show active" id="v-pills-home" role="tabpanel" aria-labelledby="v-pills-home-tab">
+        
+        
+        <div class="container py-4  ">
+
+        <p class="Quotation text-center">Quotation</p>
+          <form>
+            <div class="mb-3  ">
+              <label class="form-check-label " for="exampleCheckbox">
+                Order : 
+              </label>
+            <input class="form-check-input " type="checkbox" id="exampleCheckbox">
+            
+            <label class="form-check-label" for="exampleCheckbox">
+              One-time Order
+            </label>
+            
+            <input class="form-check-input ms-4" type="checkbox" id="exampleCheckbox">
+            <label class="form-check-label" for="exampleCheckbox">
+              Monthly blanket Order
+            </label>
+       
+              
+            </div>
+          </form>
+            <div class="d-flex">
+         <p class="d-flex align-items-center sizedrop">Size :</p> 
+         <div class="dropdown show ms-1">
+          <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            0
+          </a>
+        
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+            <!-- <a class="dropdown-item" href="#">Action</a>
+            <a class="dropdown-item" href="#">Another action</a>
+            <a class="dropdown-item" href="#">Something else here</a> -->
+          </div>
+        </div>  
+
+        <p class="d-flex align-items-center sizedrop ms-4">Thickness :</p> 
+        <div class="dropdown show ms-1">
+         <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+           0
+         </a>
+       
+         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+           <a class="dropdown-item" href="#">Action</a>
+           <a class="dropdown-item" href="#">Another action</a>
+           <a class="dropdown-item" href="#">Something else here</a>
+         </div>
+       </div>
+        </div>
+            <br>
+<div class=" d-flex justify-content-center">
+            <button type="submit" class="btn btn btncolorz mx-4">add to cart</button>
+
+            <button type="submit" class="btn btncolorz mx-4 ">add and go to cart</button>
+        
+        </div>
+        
+      </div>
+        
+      </div>
+      <div class="tab-pane fade" id="v-pills-profile" role="tabpanel" aria-labelledby="v-pills-profile-tab">
+        <table class="table table-bordered ">
+       
+            <tr>
+              <th scope="col">Details</th>
+              <th scope="">Aluminium Chequered Plates are textured metal sheets made of aluminium alloy, featuring raised diamond or checkered patterns for enhanced grip and aesthetics .</th> 
+            </tr>
+            <tr>
+              <th>Country</th>
+              <td></td> 
+            </tr>
+            <tr>
+              <th scope="col">Measurements</th>
+              <td></td>
+              
+              
+            </tr>
+            <tr>
+              <th scope="col">Price</th>
+              <td></td>
+              
+            </tr>
+          
+            <tr>
+              <th scope="col">Certification</th>
+              <td>
+
+              </td>
+               </tr>
+            <tr>
+              <th scope="col"> Grade</th>
+              <td></td>
+            </tr>
+        </table>
+      </div>
+      <div class="tab-pane fade" id="v-pills-messages" role="tabpanel" aria-labelledby="v-pills-messages-tab">...</div>
+      <div class="tab-pane fade" id="v-pills-settings" role="tabpanel" aria-labelledby="v-pills-settings-tab">...</div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

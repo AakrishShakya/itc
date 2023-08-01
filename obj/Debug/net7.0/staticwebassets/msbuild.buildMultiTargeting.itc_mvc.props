@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\itc_mvc.props" />
+</Project>
